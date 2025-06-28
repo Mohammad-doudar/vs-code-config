@@ -1,2 +1,27 @@
 # vs-code-config
 My vs code configs
+
+list of extensions installed:
+- alexandre-eliot.html-jsx-classes
+- anderseandersen.html-class-suggestions
+- angular.ng-template
+- arturock.gitstash
+- cardinal90.multi-cursor-case-preserve
+- christian-kohler.path-intellisense
+- dbaeumer.vscode-eslint
+- eamodio.gitlens
+- ecmel.vscode-html-css
+- editorconfig.editorconfig
+- firefox-devtools.vscode-firefox-debug
+- fogio.jetbrains-file-icon-theme
+- formulahendry.auto-rename-tag
+- gruntfuggly.todo-tree
+- jeff-hykin.better-csv-syntax
+- k--kato.intellij-idea-keybindings
+- mgmcdermott.vscode-language-babel
+- mrmlnc.vscode-scss
+- ms-vscode.vscode-typescript-next
+- ms-vsliveshare.vsliveshare
+- whatwedo.twig
+- xabikos.javascriptsnippets
+- zignd.html-css-class-completion
