@@ -1,6 +1,4 @@
-# vs-code-config
-My vs code configs
-
+# VS Code/Cursor configs
 list of extensions installed:
 - alexandre-eliot.html-jsx-classes
 - anderseandersen.html-class-suggestions
