@@ -2,7 +2,7 @@
 [
     {
         "key": "cmd+i",
-        "command": "composerMode.agent"
+        "command": "workbench.action.chat.open",
     },
     {
         "key": "down",
@@ -43,6 +43,10 @@
     {
         "key": "cmd+shift+k",
         "command": "git.push"
+    },
+    {
+        "key": "cmd+shift+y",
+        "command": "git.renameBranch"
     },
     {
         "key": "ctrl+]",
@@ -106,5 +110,22 @@
         "key": "ctrl+shift+,",
         "command": "-editor.action.fontZoomOut",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+cmd+w",
+        "command": "workbench.action.closeOtherEditors",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+cmd+t",
+        "command": "-workbench.action.closeOtherEditors"
+    },
+    {
+        "key": "cmd+'",
+        "command": "git.stashIncludeUntracked"
+    },
+    {
+        "key": "cmd+shift+'",
+        "command": "git.stashPop"
     }
 ]
