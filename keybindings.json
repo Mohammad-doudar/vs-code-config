@@ -2,7 +2,7 @@
 [
     {
         "key": "cmd+i",
-        "command": "workbench.action.chat.open",
+        "command": "composerMode.agent"
     },
     {
         "key": "down",
@@ -127,5 +127,10 @@
     {
         "key": "cmd+shift+'",
         "command": "git.stashPop"
+    },
+    {
+        "key": "cmd+[IntlBackslash]",
+        "command": "git.fetch",
+        "when": "editorTextFocus"
     }
 ]
